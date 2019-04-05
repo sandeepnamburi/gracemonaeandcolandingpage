@@ -2597,7 +2597,7 @@ input, select, textarea {
 
 	.feature {
 		position: relative;
-		height: 18em;
+		height: 30em;
 	}
 
 		.feature:after {
