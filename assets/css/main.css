@@ -2172,7 +2172,7 @@ input, select, textarea {
 			-webkit-transition: opacity 0.25s ease-in-out;
 			-ms-transition: opacity 0.25s ease-in-out;
 			transition: opacity 0.25s ease-in-out;
-			background-image: url("images/overlay.png");
+			background-image: url("images/xoverlay.png");
 			content: '';
 			display: block;
 			height: 100%;
@@ -2591,7 +2591,7 @@ input, select, textarea {
 
 	.feature {
 		position: relative;
-		height: 20em;
+		height: 35em;
 	}
 
 		.feature:after {
@@ -2989,7 +2989,7 @@ input, select, textarea {
 		/* Feature */
 
 			.feature {
-				height: 18em;
+				height: 37em;
 			}
 
 				.feature .content {
